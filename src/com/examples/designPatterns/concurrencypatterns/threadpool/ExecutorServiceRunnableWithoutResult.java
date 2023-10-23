@@ -1,4 +1,4 @@
-package com.examples.designPatterns.concurrencydesignpatterns.threadpool;
+package com.examples.designPatterns.concurrencypatterns.threadpool;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

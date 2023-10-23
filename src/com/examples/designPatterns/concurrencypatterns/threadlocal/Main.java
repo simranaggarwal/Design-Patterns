@@ -1,7 +1,7 @@
-package com.examples.designPatterns.concurrencydesignpatterns.threadlocal;
+package com.examples.designPatterns.concurrencypatterns.threadlocal;
 
-import com.examples.designPatterns.concurrencydesignpatterns.threadlocal.user.User;
-import com.examples.designPatterns.concurrencydesignpatterns.threadlocal.user.UserContextManager;
+import com.examples.designPatterns.concurrencypatterns.threadlocal.user.User;
+import com.examples.designPatterns.concurrencypatterns.threadlocal.user.UserContextManager;
 
 import java.util.Arrays;
 

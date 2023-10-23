@@ -1,4 +1,4 @@
-package com.examples.designPatterns.concurrencydesignpatterns.threadlocal.user;
+package com.examples.designPatterns.concurrencypatterns.threadlocal.user;
 
 import java.util.List;
 
