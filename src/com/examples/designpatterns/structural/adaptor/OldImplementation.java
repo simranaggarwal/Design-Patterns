@@ -2,7 +2,7 @@ package com.examples.designpatterns.structural.adaptor;
 
 import java.util.List;
 
-public class OldClass1 implements OldInterface {
+public class OldImplementation implements OldInterface {
     @Override
     public void validateUser(User user) {
         if(user.getAccountExpired()) {

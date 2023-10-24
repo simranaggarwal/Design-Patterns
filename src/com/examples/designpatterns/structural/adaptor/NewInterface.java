@@ -1,6 +1,6 @@
 package com.examples.designpatterns.structural.adaptor;
 
 //Target
-public interface NewImplementation {
+public interface NewInterface {
     public void validateUserAndPermissions(User user);
 }

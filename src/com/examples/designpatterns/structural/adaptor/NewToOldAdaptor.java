@@ -1,7 +1,7 @@
 package com.examples.designpatterns.structural.adaptor;
 
 //Adapter
-public class NewToOldAdaptor implements NewImplementation {
+public class NewToOldAdaptor implements NewInterface {
     OldInterface oldInterface;
 
     public NewToOldAdaptor(OldInterface oldInterface) {

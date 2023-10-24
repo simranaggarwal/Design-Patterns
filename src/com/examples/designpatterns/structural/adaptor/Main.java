@@ -9,7 +9,7 @@ public class Main {
         User user3 = new User("user3", Arrays.asList("super admin", "device create"), true);
         User user4 = new User("user4", Arrays.asList("super admin", "admin", "device_read", "device delete"), false);
 
-        NewToOldAdaptor newToOldAdaptor = new NewToOldAdaptor(new OldClass1());
+        NewToOldAdaptor newToOldAdaptor = new NewToOldAdaptor(new OldImplementation());
         newToOldAdaptor.validateUserAndPermissions(user1);
         newToOldAdaptor.validateUserAndPermissions(user2);
         newToOldAdaptor.validateUserAndPermissions(user3);
