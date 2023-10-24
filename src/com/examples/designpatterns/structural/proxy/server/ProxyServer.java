@@ -1,5 +1,6 @@
 package com.examples.designpatterns.structural.proxy.server;
 
+//Proxy
 public class ProxyServer implements Server {
 
     protected Server server;

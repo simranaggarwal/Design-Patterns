@@ -1,5 +1,6 @@
 package com.examples.designpatterns.structural.proxy.server;
 
+//Real Subject
 public class Server3 implements Server {
     protected Server3() {
     }

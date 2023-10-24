@@ -3,7 +3,7 @@ package com.examples.designpatterns.creational.prototype;
 //Couldn't think of any example better than that
 public class Main {
     public static void main(String[] args) {
-        OnionPizza onionPizza1 = new OnionPizza("thin", true);
+        Pizza onionPizza1 = new OnionPizza("thin", true);
 
         //All the features of Onion Pizza
         Pizza customPizza = onionPizza1.clone();
