@@ -22,6 +22,6 @@ public class CustomCollection<T> implements CustomIterable {
     //Returning proper concrete iterator
     @Override
     public CustomIterator<T> createAndGetIterator() {
-        return new CustomIteratorImpl<>(data, size);
+        return new CustomIteratorImpl<>(data, curr);
     }
 }
