@@ -1,4 +1,4 @@
-package com.examples.designpatterns.behavioural.chainofresponsibility;
+package com.examples.designpatterns.behavioural.chainofresponsibility.example1usinglist;
 
 //Concrete Handler
 public class Transform implements TextEditor {

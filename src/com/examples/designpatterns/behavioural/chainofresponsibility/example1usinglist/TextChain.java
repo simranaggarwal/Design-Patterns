@@ -1,4 +1,4 @@
-package com.examples.designpatterns.behavioural.chainofresponsibility;
+package com.examples.designpatterns.behavioural.chainofresponsibility.example1usinglist;
 
 import java.util.ArrayList;
 import java.util.List;

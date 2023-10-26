@@ -1,4 +1,4 @@
-package com.examples.designpatterns.behavioural.chainofresponsibility;
+package com.examples.designpatterns.behavioural.chainofresponsibility.example1usinglist;
 
 public class Main {
     public static void main(String[] args) {
