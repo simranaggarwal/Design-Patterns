@@ -30,7 +30,7 @@ public class Main {
         Opening text file 'file.text'.
         'This is a long text' is inserted.
         'long text' is copied to clipboard.
-        'Hello world!' is pasted.
+        'long text' is pasted.
         Closing file 'file.text'.
          */
         textEditorCommandExecutor.invoke();
